@@ -6,5 +6,5 @@ tags={
 	"Gameplay"
 }
 name="Test"
-supported_version="3.12.2"
+supported_version="3.12.*"
 path="C:/Users/Alexey/Documents/Paradox Interactive/Stellaris/mod/test"

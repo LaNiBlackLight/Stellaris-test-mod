@@ -6,4 +6,4 @@ tags={
 	"Gameplay"
 }
 name="Test"
-supported_version="3.12.2"
+supported_version="3.12.*"
